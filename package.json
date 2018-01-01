@@ -1,0 +1,20 @@
+{
+  "name": "fourtuntwit",
+  "version": "1.0.0",
+  "description": "twitter bot for 4Tun Gaming",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "tweet",
+    "bot"
+  ],
+  "author": "theDoctor",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "twit": "^2.2.9"
+  }
+}
