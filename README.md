@@ -1,4 +1,4 @@
-# Twitter BOT README
+# Twitter BOT README (Fav and Retweet)
 
 Written in nodeJS
 
@@ -8,10 +8,6 @@ Written in nodeJS
 	+ Runs every 4 hours
 * Favorite Bot
 	+ Runs every 6 hours
-* Reply Bot
-	+ Streamer runs constant
-* DM Bot
-	+ Streamer runs constant
 
 ### Get it running
 Add your Twitter API creds to your .env file
