@@ -2,7 +2,7 @@
 
 Written in nodeJS
 
-### Bots inculded in this program
+### Bots included in this program
 
 * Retweet Bot
 	+ Runs every 4 hours
