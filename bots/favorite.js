@@ -27,6 +27,7 @@ var favoriteTweet = function(){
         // if there was an error while 'favorite'
         if(err){
           console.log('CANNOT BE FAVORITE... Error');
+          console.log(err + "\n");
         }
         else{
           console.log('FAVORITED... Success!!!');

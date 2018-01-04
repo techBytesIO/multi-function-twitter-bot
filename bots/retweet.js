@@ -28,12 +28,14 @@ var retweet = function() {
                 // if there was an error while tweeting
                 if (err) {
                     console.log('Something went wrong while RETWEETING... Duplication maybe...');
+                    console.log(err + "\n");
                 }
             });
         }
         // if unable to Search a tweet
         else {
           console.log('Something went wrong while SEARCHING...');
+          console.log(err + "\n");
         }
     });
 }
